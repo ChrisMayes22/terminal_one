@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/terminal_one/static/css/main.acdc3eae.css",
+    "main.js": "/terminal_one/static/js/main.65be6202.js",
+    "static/js/787.dd2e0b25.chunk.js": "/terminal_one/static/js/787.dd2e0b25.chunk.js",
+    "static/media/solar_empire.png": "/terminal_one/static/media/solar_empire.a3a6412d46a1075188c2.png",
+    "index.html": "/terminal_one/index.html",
+    "main.acdc3eae.css.map": "/terminal_one/static/css/main.acdc3eae.css.map",
+    "main.65be6202.js.map": "/terminal_one/static/js/main.65be6202.js.map",
+    "787.dd2e0b25.chunk.js.map": "/terminal_one/static/js/787.dd2e0b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acdc3eae.css",
+    "static/js/main.65be6202.js"
+  ]
+}
