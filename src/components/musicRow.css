@@ -1,0 +1,23 @@
+.music-row-flex {
+    display: flex;
+    width: 100%;
+    height: 3rem;
+    flex-direction: row;
+    font-size: 1.2rem;
+    justify-content: space-between;
+}
+
+.music-row-flex:hover {
+    cursor: pointer;
+    background-color: rgb(70, 18, 18);
+}
+
+.music-row-icon {
+    color: green;
+    font-size: 2.5rem;
+}
+
+.music-row-icon:hover {
+    cursor: pointer;
+    color: rgb(78, 214, 78);
+}

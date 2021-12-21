@@ -1,0 +1,14 @@
+.nav-button {
+    width: 25vw;
+    height: 10vh;
+    background-color: gold;
+    border: darkred 2px solid;
+    font: darkred;
+    border-radius: 10px;
+}
+
+.nav-button:hover{
+    background-color: darkred;
+    border: gold 2px solid;
+    font: gold;
+}

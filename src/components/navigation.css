@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    top: 0;
+    width: 100vw;
+    height: 4rem;
+    background-color: rgb(24, 6, 6);
+    border: 1px rgb(241, 38, 72) solid;
+    color: rgb(241, 38, 72);
+}
+
+a, a:active{
+    color: rgb(241, 38, 72);
+}

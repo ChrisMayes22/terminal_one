@@ -1,0 +1,24 @@
+.display-flex-root{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.display-img-container{
+    display: flex;
+    width: 80vw;
+    height: 80vh;
+    background-color: rgb(24, 6, 6);
+    border: 1px rgb(241, 38, 72) solid;
+    padding: 5rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img {
+    max-height: 90%;
+    max-width: 90%;
+}
