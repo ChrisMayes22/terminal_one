@@ -65,40 +65,40 @@ const getRandomAgony = function(){
     ];
 
     const payload = [
-        <Link to="/image" state={{imgPath: 'solar_empire.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/solar_empire.png' }}>
             Art for Imperial Guests (1)
         </Link>,
-        <Link to="/image" state={{imgPath: 'solar_empire2.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/solar_empire2.png' }}>
             Art for Imperial Guests (2)
         </Link>,
-        <Link to="/image" state={{imgPath: 'solar_empire3.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/solar_empire3.png' }}>
             Art for Imperial Guests (3)
         </Link>,
-        <Link to="/image" state={{imgPath: 'solar_empire4.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/solar_empire4.png' }}>
             Art for Imperial Guests (4)
         </Link>,
-        <Link to="/image" state={{imgPath: 'solar_empire4.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/solar_empire4.png' }}>
             Art for Imperial Guests (5)
         </Link>,
-        <Link to="/image" state={{imgPath: 'solar_empire5.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/solar_empire5.png' }}>
             Art for Imperial Guests (6)
         </Link>,
-        <Link to="/image" state={{imgPath: 'royal_guard.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/royal_guard.png' }}>
             Art for Militaristic Guests (1)
         </Link>,
-        <Link to="/image" state={{imgPath: 'lunar_republic.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/lunar_republic.png' }}>
             Art for Democratic Guests (1)
         </Link>,
-        <Link to="/image" state={{imgPath: 'lunar_republic1.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/lunar_republic1.png' }}>
             Art for Democratic Guests (2)
         </Link>,
-        <Link to="/image" state={{imgPath: 'loose_lips.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/loose_lips.png' }}>
             Internal Material (DO NOT SHARE)
         </Link>,
-        <Link to="/image" state={{imgPath: 'inspire.png'}}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/inspire.png'}}>
             Nettlekiss
         </Link>,
-        <Link to="/image" state={{imgPath: 'air_cavalry.png' }}>
+        <Link to="/image" state={{imgPath: 'https://chrismayes22.github.io/terminal_one/air_cavalry.png' }}>
             Internal Recruitment
         </Link>,
     ];
